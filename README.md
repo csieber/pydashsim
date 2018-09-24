@@ -1,6 +1,7 @@
 # pydashsim - HAS simulation
 
 Simulates a HTTP Adaptive Streaming (HAS) session based on a throughput pattern and video segment sizes.
+The simulation is part of the supplemental material to the HASBRAIN scientific paper: https://github.com/csieber/hasbrain
 
 ## QUICKSTART 
 
